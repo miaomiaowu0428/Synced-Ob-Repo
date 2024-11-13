@@ -1,8 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
   "omnisearch",
   "metadata-menu",
   "dataview",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]
