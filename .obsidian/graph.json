@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#Dialog ",
+      "query": "[\"type\":Dialog]",
       "color": {
         "a": 1,
         "rgb": 16773632
