@@ -9,8 +9,6 @@
     "editor:toggle-bold",
     "editor:toggle-italics",
     "editor:toggle-strikethrough",
-    "editor:toggle-highlight",
-    "editor:toggle-code",
     "editor:toggle-blockquote",
     "editor:insert-link",
     "editor:toggle-bullet-list",
