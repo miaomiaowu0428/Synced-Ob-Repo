@@ -1,7 +1,6 @@
 ---
 excalidraw-plugin: parsed
 tags:
-  - excalidraw
   - CS
   - Compiler
 Author: Qmm

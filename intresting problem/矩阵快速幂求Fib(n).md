@@ -1,7 +1,6 @@
 ---
 excalidraw-plugin: parsed
 tags:
-  - excalidraw
   - Math
   - LinearAlgebra
   - Problem
