@@ -23,5 +23,6 @@
     "editor:configure-toolbar"
   ],
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
