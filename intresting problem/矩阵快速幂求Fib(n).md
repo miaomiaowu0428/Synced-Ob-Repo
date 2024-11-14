@@ -1,9 +1,8 @@
 ---
 excalidraw-plugin: parsed
 tags:
-  - Math
-  - LinearAlgebra
   - Problem
+  - Math/LinearAlgebra
 Author: Qmm
 Type: Problem
 ---
