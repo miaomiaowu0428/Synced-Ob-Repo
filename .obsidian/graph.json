@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 65535
       }
+    },
+    {
+      "query": "tag:#Diary  ",
+      "color": {
+        "a": 1,
+        "rgb": 16773632
+      }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
+  "collapse-display": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.93059951716738,
-  "lineSizeMultiplier": 2.5868025751073,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 0,
+  "centerStrength": 0.239583333333333,
+  "repelStrength": 9.58333333333333,
   "linkStrength": 1,
-  "linkDistance": 241,
-  "scale": 0.9484498750864949,
+  "linkDistance": 30,
+  "scale": 0.637298729901172,
   "close": false
 }
