@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -15,30 +15,30 @@
       }
     },
     {
-      "query": "tag:Cs",
-      "color": {
-        "a": 1,
-        "rgb": 65535
-      }
-    },
-    {
       "query": "tag:#Diary  ",
       "color": {
         "a": 1,
-        "rgb": 16773632
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#CS  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 2.16094420600858,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.239583333333333,
-  "repelStrength": 9.58333333333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.637298729901172,
+  "linkDistance": 250,
+  "scale": 1.083072897590378,
   "close": false
 }
