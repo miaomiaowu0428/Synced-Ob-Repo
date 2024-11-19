@@ -1,0 +1,10 @@
+{
+  "folder": "Components",
+  "createComponentSilent": false,
+  "scriptFolder": "components/scripts",
+  "DEFAULT_SETTINGS": {
+    "folder": "",
+    "createComponentSilent": false,
+    "scriptFolder": "components/scripts"
+  }
+}

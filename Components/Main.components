@@ -1,0 +1,301 @@
+{
+  "components": [
+    {
+      "id": "27e3fdc3-794f-41fd-822e-627b19c5b6a9",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-11-19T12:19:43.169Z",
+      "updateAt": "2024-11-19T12:19:43.169Z",
+      "components": [
+        {
+          "componentId": "b5a24503-170b-462d-9ccd-0f4f26050e29",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 8
+            }
+          }
+        },
+        {
+          "componentId": "be52e080-1e9a-4245-907b-b1e6eb672bc4",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 4,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 8,
+              "w": 2,
+              "h": 5
+            }
+          }
+        },
+        {
+          "componentId": "0d111202-9d40-439b-9831-f2fd16e15a75",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 8,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 2,
+              "y": 8,
+              "w": 2,
+              "h": 5
+            }
+          }
+        },
+        {
+          "componentId": "2118564c-1d18-4ec4-a3a2-987238935352",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 12,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 4,
+              "y": 0,
+              "w": 8,
+              "h": 13
+            }
+          }
+        }
+      ],
+      "layoutType": "grid"
+    },
+    {
+      "id": "b5a24503-170b-462d-9ccd-0f4f26050e29",
+      "type": "time",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-11-19T12:43:15.564Z",
+      "updateAt": "2024-11-19T12:43:15.564Z",
+      "showLunar": false,
+      "hideDateInfo": false,
+      "hideSeconds": true,
+      "hideProgress": false
+    },
+    {
+      "id": "be52e080-1e9a-4245-907b-b1e6eb672bc4",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-11-19T12:49:36.148Z",
+      "updateAt": "2024-11-19T12:49:36.148Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "字",
+      "countType": "number",
+      "precision": 0,
+      "query": {
+        "valueType": "propertyValue",
+        "value": 100,
+        "filter": {
+          "id": "e5f03562-f2af-44df-8496-324c7eaf787e",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "8246ae5b-03d1-4e9f-9290-5c2b01f59e20",
+              "type": "filter",
+              "operator": "not_contains",
+              "property": "tags",
+              "value": "HandWrite",
+              "conditions": []
+            },
+            {
+              "id": "2c665761-dc79-4fe1-a777-3f67e5f415e8",
+              "type": "filter",
+              "operator": "not_equals",
+              "property": "${file.parent}",
+              "value": "*/img",
+              "conditions": []
+            },
+            {
+              "id": "3dbd9ff6-e4b8-4096-a479-fb26e42a3eca",
+              "type": "filter",
+              "operator": "not_contains",
+              "property": "${file.parent}",
+              "value": "Components",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        },
+        "property": "${file.words}"
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "ddfceaa0-815b-44bf-8d42-86fbc082f682",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "全库字数"
+    },
+    {
+      "id": "0d111202-9d40-439b-9831-f2fd16e15a75",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-11-19T12:55:37.872Z",
+      "updateAt": "2024-11-19T12:55:37.872Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "篇",
+      "countType": "number",
+      "precision": 0,
+      "query": {
+        "valueType": "totalRecords",
+        "value": 100,
+        "filter": {
+          "id": "e5f03562-f2af-44df-8496-324c7eaf787e",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "026b3d31-3b3c-42d5-8ea3-0c520bd217c5",
+              "type": "filter",
+              "operator": "not_contains",
+              "property": "${file.parent}",
+              "value": "img",
+              "conditions": []
+            },
+            {
+              "id": "9824cd3a-7f0b-4037-9220-bd63cc670c68",
+              "type": "filter",
+              "operator": "not_contains",
+              "property": "${file.parent}",
+              "value": "Components",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "ddfceaa0-815b-44bf-8d42-86fbc082f682",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "全库笔记"
+    },
+    {
+      "id": "2118564c-1d18-4ec4-a3a2-987238935352",
+      "type": "chart",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-11-19T12:59:42.773Z",
+      "updateAt": "2024-11-19T12:59:42.773Z",
+      "chartType": "heatmap",
+      "filter": {
+        "id": "093d0c8c-8406-4f0c-a6c8-11260a476369",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "0a2bfe91-2211-462b-9cb5-429f3b0d5c51",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "img",
+            "conditions": []
+          },
+          {
+            "id": "131a86c3-8725-4a21-9124-2ef2db4c92f1",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "tags",
+            "value": "HandWrite",
+            "conditions": []
+          },
+          {
+            "id": "239b5656-77ff-4885-acb2-8ebbe18622eb",
+            "type": "filter",
+            "operator": "not_contains",
+            "property": "${file.parent}",
+            "value": "Components",
+            "conditions": []
+          }
+        ]
+      },
+      "labelProperty": "${file.ctime}",
+      "labelFormat": "$none",
+      "valueProperty": "${file.words}",
+      "valuePrecision": 0,
+      "sortField": "xAxisValue",
+      "sortOrder": "asc",
+      "maxHeight": -1,
+      "chartColorSet": "default",
+      "chartLabelPosition": "top",
+      "showDataValue": false,
+      "valueScaleStartFromZero": true,
+      "smoothLine": false,
+      "options": {
+        "minValue": 0,
+        "maxValue": 300,
+        "cellSize": 24,
+        "numberOfSegments": 3,
+        "showSplitLine": true,
+        "firstDayOfWeek": 1,
+        "dateRange": {
+          "type": "latest",
+          "latestValue": "180",
+          "latestUnit": "day"
+        }
+      },
+      "valueFormat": "$sum",
+      "title": "瓷砖墙"
+    }
+  ],
+  "rootComponentId": "27e3fdc3-794f-41fd-822e-627b19c5b6a9"
+}
