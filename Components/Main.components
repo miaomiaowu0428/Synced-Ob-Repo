@@ -285,7 +285,7 @@
           }
         ]
       },
-      "labelProperty": "${file.ctime}",
+      "labelProperty": "${file.mtime}",
       "labelFormat": "$none",
       "valueProperty": "${file.words}",
       "valuePrecision": 0,

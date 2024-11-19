@@ -11,12 +11,12 @@
             "id": "0862bd45639ea030",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "components-file-view",
               "state": {
-                "file": "Reading/东方快车谋杀案.md"
+                "file": "Components/Main.components"
               },
-              "icon": "excalidraw-icon",
-              "title": "东方快车谋杀案"
+              "icon": "gantt-chart",
+              "title": "Main"
             }
           }
         ]
@@ -188,13 +188,13 @@
   },
   "active": "0862bd45639ea030",
   "lastOpenFiles": [
+    "Reading/东方快车谋杀案.md",
     "Components/Main.components",
     "未命名",
     "Physics",
     "Economics/Notes",
     "Economics/Book",
     "Economics",
-    "Reading/东方快车谋杀案.md",
     "Reading",
     "Diary/24年11月17日-无聊.md",
     "Diary/24年11月12日-买平板.md",
@@ -224,7 +224,6 @@
     "Math/秩.md",
     "Math/矩阵的向量与特征值.md",
     "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
-    "Diary/img",
     "Dialog/2024-11-13.md"
   ]
 }
