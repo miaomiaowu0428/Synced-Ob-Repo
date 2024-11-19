@@ -131,9 +131,9 @@
             {
               "id": "2c665761-dc79-4fe1-a777-3f67e5f415e8",
               "type": "filter",
-              "operator": "not_equals",
+              "operator": "not_contains",
               "property": "${file.parent}",
-              "value": "*/img",
+              "value": "img",
               "conditions": []
             },
             {
