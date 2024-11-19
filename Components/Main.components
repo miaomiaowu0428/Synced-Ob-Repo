@@ -21,9 +21,9 @@
               "h": 4
             },
             "laptop": {
-              "x": 0,
+              "x": 5,
               "y": 0,
-              "w": 4,
+              "w": 7,
               "h": 8
             }
           }
@@ -38,10 +38,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 0,
-              "y": 8,
-              "w": 2,
-              "h": 5
+              "x": 2,
+              "y": 12,
+              "w": 3,
+              "h": 6
             }
           }
         },
@@ -55,10 +55,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 2,
-              "y": 8,
+              "x": 0,
+              "y": 12,
               "w": 2,
-              "h": 5
+              "h": 6
             }
           }
         },
@@ -72,10 +72,27 @@
               "h": 4
             },
             "laptop": {
-              "x": 4,
+              "x": 5,
+              "y": 8,
+              "w": 7,
+              "h": 10
+            }
+          }
+        },
+        {
+          "componentId": "a75507ed-d1a8-43d5-8cb0-eab7fb0ebc10",
+          "layout": {
+            "mobile": {
+              "x": 0,
               "y": 0,
-              "w": 8,
-              "h": 13
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 0,
+              "y": 0,
+              "w": 5,
+              "h": 12
             }
           }
         }
@@ -93,7 +110,7 @@
       "createAt": "2024-11-19T12:43:15.564Z",
       "updateAt": "2024-11-19T12:43:15.564Z",
       "showLunar": false,
-      "hideDateInfo": false,
+      "hideDateInfo": true,
       "hideSeconds": true,
       "hideProgress": false
     },
@@ -283,7 +300,7 @@
       "options": {
         "minValue": 0,
         "maxValue": 300,
-        "cellSize": 24,
+        "cellSize": 14,
         "numberOfSegments": 3,
         "showSplitLine": true,
         "firstDayOfWeek": 1,
@@ -295,6 +312,54 @@
       },
       "valueFormat": "$sum",
       "title": "瓷砖墙"
+    },
+    {
+      "id": "a75507ed-d1a8-43d5-8cb0-eab7fb0ebc10",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-11-19T13:46:10.150Z",
+      "updateAt": "2024-11-19T13:46:10.150Z",
+      "viewType": "calendar",
+      "newPageNameFormat": "{{date:YY年MM月DD日}} ",
+      "properties": [
+        {
+          "id": "__componentsTitleProperty_0x7c00",
+          "name": "文件名",
+          "type": "text",
+          "isShow": true,
+          "wrap": false,
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "colorfulGroups": false,
+      "viewOptions": {
+        "openPageIn": "tab",
+        "openPageAfterCreate": true,
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "showAllProperties": false,
+        "items": [],
+        "cover": {
+          "type": "textContent",
+          "source": "default",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape",
+          "position": "top"
+        },
+        "showGrid": false,
+        "heightType": "auto",
+        "heightValue": 600,
+        "calendarViewType": "month",
+        "showLunar": false,
+        "cardColorFrom": "default"
+      },
+      "loadLimitPerPage": 50
     }
   ],
   "rootComponentId": "27e3fdc3-794f-41fd-822e-627b19c5b6a9"
