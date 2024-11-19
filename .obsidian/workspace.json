@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "e5bad54a825c5a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23c273773cae8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0862bd45639ea030",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Reading/东方快车谋杀案.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "东方快车谋杀案"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93e437d2f3d4b1e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50894e67c70bd91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a342596ad121bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "be5378114e2ef32b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"Type\"]",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ac6ae355c12e73e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6050e9eacae8e51e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc59ac7a0e0ff4e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8715dc41400fa45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/矩阵的向量与特征值.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "矩阵的向量与特征值 的反向链接列表"
+            }
+          },
+          {
+            "id": "1345fbf27ba93050",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/矩阵的向量与特征值.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "矩阵的向量与特征值 的出链列表"
+            }
+          },
+          {
+            "id": "34d3b403e1f6f85d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0bc31fe019e74867",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ce8676a4366b2633",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "c98b978a673a7f3b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "0862bd45639ea030",
+  "lastOpenFiles": [
+    "Components/Main.components",
+    "未命名",
+    "Physics",
+    "Economics/Notes",
+    "Economics/Book",
+    "Economics",
+    "Reading/东方快车谋杀案.md",
+    "Reading",
+    "Diary/24年11月17日-无聊.md",
+    "Diary/24年11月12日-买平板.md",
+    "Diary/24年11月13日.md",
+    "intresting problem/线性递推数列通项.md",
+    "Diary/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
+    "Math/求矩阵特征值与特征向量.md",
+    "intresting problem/矩阵快速幂求Fib(n).md",
+    "20241119202520 .md",
+    "Main.md",
+    "Components/time.components",
+    "CS",
+    "Components",
+    "Math/相似分解.md",
+    "Math/相似矩阵.md",
+    "Math/相似对角化.md",
+    "Math/行列式.md",
+    "Math/向量.md",
+    "Math/向量空间.md",
+    "Math/线性映射.md",
+    "Math/线性无关.md",
+    "Math/零空间.md",
+    "Math/矩阵的特征向量与特征值.md",
+    "Math/矩阵的列空间.md",
+    "Math/矩阵.md",
+    "CS/parser.md",
+    "Math/秩.md",
+    "Math/矩阵的向量与特征值.md",
+    "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
+    "Diary/img",
+    "Dialog/2024-11-13.md"
+  ]
+}
