@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6050e9eacae8e51e",
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +190,9 @@
   },
   "active": "0862bd45639ea030",
   "lastOpenFiles": [
-    "Reading/东方快车谋杀案.md",
+    "CS/parser.md",
     "Components/Main.components",
+    "Reading/东方快车谋杀案.md",
     "未命名",
     "Physics",
     "Economics/Notes",
@@ -220,7 +223,6 @@
     "Math/矩阵的特征向量与特征值.md",
     "Math/矩阵的列空间.md",
     "Math/矩阵.md",
-    "CS/parser.md",
     "Math/秩.md",
     "Math/矩阵的向量与特征值.md",
     "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
