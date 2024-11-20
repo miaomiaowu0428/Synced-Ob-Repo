@@ -548,7 +548,7 @@
       "showStartDateTime": false,
       "pictureFit": "cover",
       "picturePosition": "left",
-      "timeTextPattern": "s",
+      "timeTextPattern": "H",
       "startDateTime": "2024-11-13 00:00:00",
       "title": "距离建库已"
     },
