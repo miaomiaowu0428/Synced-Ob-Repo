@@ -117,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Components/Main.components",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,6 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Components/Main.components",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -147,7 +149,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Components/Main.components"
+          },
           "icon": "lucide-list",
           "title": "大纲"
         }

@@ -484,7 +484,8 @@
           "commandId": "theme:use-light",
           "commandName": "使用浅色模式"
         }
-      }
+      },
+      "icon": "Lightbulb"
     },
     {
       "id": "68c13fc0-4633-4071-a2d7-eada7152ede5",
@@ -507,7 +508,8 @@
           "commandId": "theme:use-dark",
           "commandName": "使用深色模式"
         }
-      }
+      },
+      "icon": "LightbulbOff"
     },
     {
       "id": "42b2a2d8-b038-455c-82b9-db0d94417b91",
@@ -530,7 +532,8 @@
           "commandId": "graph:open",
           "commandName": "关系图谱: 查看关系图谱"
         }
-      }
+      },
+      "icon": "Search"
     },
     {
       "id": "02214c85-9057-4721-be42-656fc18c013c",
@@ -539,7 +542,7 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "showBorder": true,
-      "showShadow": false,
+      "showShadow": true,
       "createAt": "2024-11-20T05:33:42.870Z",
       "updateAt": "2024-11-20T05:33:42.870Z",
       "showStartDateTime": false,
@@ -570,7 +573,8 @@
           "commandId": "obsidian-git:pull",
           "commandName": "Git: Pull"
         }
-      }
+      },
+      "icon": "ArrowBigDown"
     },
     {
       "id": "33b12003-7765-4041-8536-7677cab4928c",
@@ -593,7 +597,8 @@
           "commandId": "obsidian-git:push",
           "commandName": "Git: Commit-and-sync"
         }
-      }
+      },
+      "icon": "ArrowBigUp"
     }
   ],
   "rootComponentId": "27e3fdc3-794f-41fd-822e-627b19c5b6a9"
