@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b32d2ca6c8491d64",
+        "id": "17f49d60095457b8",
         "type": "tabs",
         "children": [
           {
-            "id": "239497e24181f88a",
+            "id": "3b1d26fa957f89c4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "components-file-view",
               "state": {
-                "file": "Reading/东方快车谋杀案.md"
+                "file": "Components/Main.components"
               },
-              "icon": "excalidraw-icon",
-              "title": "东方快车谋杀案"
+              "icon": "gantt-chart",
+              "title": "Main"
+            }
+          },
+          {
+            "id": "faedcbda3c6040d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -169,9 +179,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "239497e24181f88a",
+  "active": "3b1d26fa957f89c4",
   "lastOpenFiles": [
     "Components/Main.components",
+    "Diary/24年11月12日-买平板.md",
+    "Reading/东方快车谋杀案.md",
+    "/Components/Main.components",
     "Dialog/2024-11-13.md",
     "Math/相似对角化.md",
     "intresting problem/矩阵快速幂求Fib(n).md",
