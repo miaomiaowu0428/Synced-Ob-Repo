@@ -20,18 +20,13 @@
             }
           },
           {
-            "id": "bbb78f19cca4a430",
+            "id": "60d18ca34e062a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/24年11月22日.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "24年11月22日"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,10 +185,10 @@
   },
   "active": "3b1d26fa957f89c4",
   "lastOpenFiles": [
-    "Diary/24年11月22日.md",
     "Components/Main.components",
-    "Diary/未命名.md",
     "Diary/24年11月12日-买平板.md",
+    "Diary/24年11月22日.md",
+    "Diary/未命名.md",
     "/Components/Main.components",
     "Reading/东方快车谋杀案.md",
     "Dialog/2024-11-13.md",
