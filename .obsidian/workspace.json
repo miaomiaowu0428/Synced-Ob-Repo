@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b23c273773cae8c3",
+        "id": "494dcc5b333f5013",
         "type": "tabs",
         "children": [
           {
-            "id": "0862bd45639ea030",
+            "id": "74250aef075f8c05",
             "type": "leaf",
             "state": {
               "type": "components-file-view",
@@ -50,10 +50,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Type\"]",
+                "query": "tag:#Calculus",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -182,14 +182,25 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c98b978a673a7f3b",
+  "active": "74250aef075f8c05",
   "lastOpenFiles": [
+    "Math/邻域.md",
+    "Math/极限.md",
+    "Math/导数.md",
+    "Math/伴随矩阵.md",
+    "Math/偏导数.md",
+    "Math/标量对矩阵求导.md",
+    "Math/方向导数.md",
+    "Components/Main.components",
+    "CS/Code/Rust/clap指南.md",
+    "CS/Code/Rust",
+    "CS/Code",
     "Diary/24年11月22日.md",
     "CS/parser.md",
-    "Components/Main.components",
     "Reading/东方快车谋杀案.md",
     "未命名",
     "Physics",
@@ -207,8 +218,6 @@
     "20241119202520 .md",
     "Main.md",
     "Components/time.components",
-    "CS",
-    "Components",
     "Math/相似分解.md",
     "Math/相似矩阵.md",
     "Math/相似对角化.md",
@@ -216,14 +225,6 @@
     "Math/向量.md",
     "Math/向量空间.md",
     "Math/线性映射.md",
-    "Math/线性无关.md",
-    "Math/零空间.md",
-    "Math/矩阵的特征向量与特征值.md",
-    "Math/矩阵的列空间.md",
-    "Math/矩阵.md",
-    "Math/秩.md",
-    "Math/矩阵的向量与特征值.md",
-    "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
-    "Dialog/2024-11-13.md"
+    "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png"
   ]
 }
