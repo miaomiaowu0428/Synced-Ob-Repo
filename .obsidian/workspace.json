@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "494dcc5b333f5013",
+        "id": "d22291c1f9ef8bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "74250aef075f8c05",
+            "id": "6c5303b6dc3d8e5c",
             "type": "leaf",
             "state": {
               "type": "components-file-view",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Calculus",
+                "query": "tag:#Problem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,22 +186,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "74250aef075f8c05",
+  "active": "6c5303b6dc3d8e5c",
   "lastOpenFiles": [
+    "Components/Main.components",
+    "Reading/东方快车谋杀案.md",
+    "Math/伴随矩阵.md",
     "Math/邻域.md",
     "Math/极限.md",
     "Math/导数.md",
-    "Math/伴随矩阵.md",
     "Math/偏导数.md",
     "Math/标量对矩阵求导.md",
     "Math/方向导数.md",
-    "Components/Main.components",
     "CS/Code/Rust/clap指南.md",
     "CS/Code/Rust",
     "CS/Code",
     "Diary/24年11月22日.md",
     "CS/parser.md",
-    "Reading/东方快车谋杀案.md",
     "未命名",
     "Physics",
     "Economics/Notes",
@@ -224,7 +224,6 @@
     "Math/行列式.md",
     "Math/向量.md",
     "Math/向量空间.md",
-    "Math/线性映射.md",
     "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png"
   ]
 }

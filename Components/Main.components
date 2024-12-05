@@ -23,7 +23,7 @@
             "laptop": {
               "x": 5,
               "y": 0,
-              "w": 7,
+              "w": 5,
               "h": 6
             }
           }
@@ -38,10 +38,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 2,
-              "y": 18,
-              "w": 3,
-              "h": 4
+              "x": 10,
+              "y": 0,
+              "w": 2,
+              "h": 6
             }
           }
         },
@@ -55,27 +55,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 0,
-              "y": 18,
+              "x": 10,
+              "y": 6,
               "w": 2,
               "h": 4
-            }
-          }
-        },
-        {
-          "componentId": "2118564c-1d18-4ec4-a3a2-987238935352",
-          "layout": {
-            "mobile": {
-              "x": 0,
-              "y": 12,
-              "w": 4,
-              "h": 4
-            },
-            "laptop": {
-              "x": 5,
-              "y": 6,
-              "w": 7,
-              "h": 11
             }
           }
         },
@@ -92,7 +75,7 @@
               "x": 0,
               "y": 0,
               "w": 5,
-              "h": 12
+              "h": 15
             }
           }
         },
@@ -107,7 +90,7 @@
             },
             "laptop": {
               "x": 5,
-              "y": 17,
+              "y": 9,
               "w": 1,
               "h": 3
             }
@@ -123,8 +106,8 @@
               "h": 4
             },
             "laptop": {
-              "x": 6,
-              "y": 17,
+              "x": 5,
+              "y": 6,
               "w": 1,
               "h": 3
             }
@@ -140,9 +123,9 @@
               "h": 4
             },
             "laptop": {
-              "x": 7,
-              "y": 17,
-              "w": 3,
+              "x": 6,
+              "y": 9,
+              "w": 2,
               "h": 3
             }
           }
@@ -157,10 +140,10 @@
               "h": 4
             },
             "laptop": {
-              "x": 0,
-              "y": 12,
-              "w": 5,
-              "h": 6
+              "x": 8,
+              "y": 6,
+              "w": 2,
+              "h": 4
             }
           }
         },
@@ -174,8 +157,8 @@
               "h": 4
             },
             "laptop": {
-              "x": 10,
-              "y": 17,
+              "x": 6,
+              "y": 6,
               "w": 1,
               "h": 3
             }
@@ -191,10 +174,44 @@
               "h": 4
             },
             "laptop": {
-              "x": 11,
-              "y": 17,
+              "x": 7,
+              "y": 6,
               "w": 1,
               "h": 3
+            }
+          }
+        },
+        {
+          "componentId": "704ef15e-c7f0-431c-b4c2-c76070a708ee",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 10,
+              "y": 10,
+              "w": 2,
+              "h": 4
+            }
+          }
+        },
+        {
+          "componentId": "0fb54f35-5c45-4aae-9c49-a3bf3af825a3",
+          "layout": {
+            "mobile": {
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4
+            },
+            "laptop": {
+              "x": 8,
+              "y": 10,
+              "w": 2,
+              "h": 4
             }
           }
         }
@@ -344,76 +361,6 @@
         }
       },
       "title": "全库笔记"
-    },
-    {
-      "id": "2118564c-1d18-4ec4-a3a2-987238935352",
-      "type": "chart",
-      "titleAlign": "center",
-      "tabTitle": "",
-      "maxWidthRatio": -1,
-      "showBorder": true,
-      "showShadow": true,
-      "createAt": "2024-11-19T12:59:42.773Z",
-      "updateAt": "2024-11-19T12:59:42.773Z",
-      "chartType": "heatmap",
-      "filter": {
-        "id": "093d0c8c-8406-4f0c-a6c8-11260a476369",
-        "type": "group",
-        "operator": "and",
-        "conditions": [
-          {
-            "id": "0a2bfe91-2211-462b-9cb5-429f3b0d5c51",
-            "type": "filter",
-            "operator": "not_contains",
-            "property": "${file.parent}",
-            "value": "img",
-            "conditions": []
-          },
-          {
-            "id": "131a86c3-8725-4a21-9124-2ef2db4c92f1",
-            "type": "filter",
-            "operator": "not_contains",
-            "property": "tags",
-            "value": "HandWrite",
-            "conditions": []
-          },
-          {
-            "id": "239b5656-77ff-4885-acb2-8ebbe18622eb",
-            "type": "filter",
-            "operator": "not_contains",
-            "property": "${file.parent}",
-            "value": "Components",
-            "conditions": []
-          }
-        ]
-      },
-      "labelProperty": "${file.mtime}",
-      "labelFormat": "$none",
-      "valueProperty": "${file.words}",
-      "valuePrecision": 0,
-      "sortField": "xAxisValue",
-      "sortOrder": "asc",
-      "maxHeight": -1,
-      "chartColorSet": "default",
-      "chartLabelPosition": "top",
-      "showDataValue": false,
-      "valueScaleStartFromZero": true,
-      "smoothLine": false,
-      "options": {
-        "minValue": 0,
-        "maxValue": 300,
-        "cellSize": 14,
-        "numberOfSegments": 3,
-        "showSplitLine": true,
-        "firstDayOfWeek": 1,
-        "dateRange": {
-          "type": "latest",
-          "latestValue": "180",
-          "latestUnit": "day"
-        }
-      },
-      "valueFormat": "$sum",
-      "title": "瓷砖墙"
     },
     {
       "id": "a75507ed-d1a8-43d5-8cb0-eab7fb0ebc10",
@@ -599,6 +546,110 @@
         }
       },
       "icon": "ArrowBigUp"
+    },
+    {
+      "id": "704ef15e-c7f0-431c-b4c2-c76070a708ee",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-12-05T14:51:29.088Z",
+      "updateAt": "2024-12-05T14:51:29.088Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "篇",
+      "countType": "number",
+      "precision": 0,
+      "query": {
+        "valueType": "totalRecords",
+        "value": 100,
+        "filter": {
+          "id": "eaaddc54-7a3d-42b7-80c7-47f7c744667d",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "952403fa-5828-4c16-8a16-b59e8a619016",
+              "type": "filter",
+              "operator": "contains",
+              "property": "tags",
+              "value": "LinearAlgebra",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "1aab188b-91f1-41cc-8918-010c822d4be3",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "线性代数"
+    },
+    {
+      "id": "0fb54f35-5c45-4aae-9c49-a3bf3af825a3",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2024-12-05T14:51:29.088Z",
+      "updateAt": "2024-12-05T14:51:29.088Z",
+      "countValueAlign": "center",
+      "contentPrefix": "",
+      "contentSuffix": "篇",
+      "countType": "number",
+      "precision": 0,
+      "query": {
+        "valueType": "totalRecords",
+        "value": 100,
+        "filter": {
+          "id": "eaaddc54-7a3d-42b7-80c7-47f7c744667d",
+          "type": "group",
+          "operator": "and",
+          "conditions": [
+            {
+              "id": "952403fa-5828-4c16-8a16-b59e8a619016",
+              "type": "filter",
+              "operator": "contains",
+              "property": "tags",
+              "value": "Calculus",
+              "conditions": []
+            }
+          ]
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "id": "1aab188b-91f1-41cc-8918-010c822d4be3",
+          "type": "group",
+          "operator": "and",
+          "conditions": []
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "title": "微积分"
     }
   ],
   "rootComponentId": "27e3fdc3-794f-41fd-822e-627b19c5b6a9"
