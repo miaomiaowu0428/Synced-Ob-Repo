@@ -11,22 +11,10 @@
             "id": "3b1d26fa957f89c4",
             "type": "leaf",
             "state": {
-              "type": "components-file-view",
-              "state": {
-                "file": "Components/Main.components"
-              },
-              "icon": "gantt-chart",
-              "title": "Main"
-            }
-          },
-          {
-            "id": "60d18ca34e062a39",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -185,32 +173,38 @@
   },
   "active": "3b1d26fa957f89c4",
   "lastOpenFiles": [
+    "Math/无穷小.md",
+    "Math/微分.md",
+    "Math/无穷小^.md",
+    "Math/极限.md",
+    "Math/导数.md",
+    "Math/伴随矩阵.md",
+    "Math/标量对矩阵求导.md",
+    "Math/偏导数.md",
     "Components/Main.components",
+    "Math/邻域.md",
+    "Math/方向导数.md",
+    "/Math/邻域.md",
+    "/Math/标量对矩阵求导.md",
+    "/Math/极限.md",
+    "/Math/方向导数.md",
+    "/Math/导数.md",
+    "/Math/偏导数.md",
+    "/Math/伴随矩阵.md",
+    "/Components/Main.components",
     "Diary/24年11月12日-买平板.md",
     "Diary/24年11月22日.md",
     "Diary/未命名.md",
-    "/Components/Main.components",
     "Reading/东方快车谋杀案.md",
     "Dialog/2024-11-13.md",
     "Math/相似对角化.md",
     "intresting problem/矩阵快速幂求Fib(n).md",
     "Math/矩阵的向量与特征值.md",
     "Math/相似矩阵.md",
-    "intresting problem/递推数列.md",
-    "Dialog/2024-11-12买平板.md",
-    "parser.md",
-    "202411130202.md",
     "Dialog/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
     "Dialog/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
-    "/parser.md",
-    "/intresting problem/递推数列.md",
-    "/intresting problem/矩阵快速幂求Fib(n).md",
-    "/Math/矩阵的向量与特征值.md",
-    "/Math/相似矩阵.md",
-    "/Math/相似对角化.md",
     "/Dialog/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
     "/Dialog/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
-    "/Dialog/12024-11-12买平板.md",
     "intresting problem",
     "Math",
     "Dialog/img",

@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "tag: #Math  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -39,6 +39,6 @@
   "repelStrength": 15.9375,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.40455577622045263,
-  "close": true
+  "scale": 1.7042702322374166,
+  "close": false
 }
