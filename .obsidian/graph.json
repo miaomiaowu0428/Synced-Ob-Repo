@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag: #Math  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 15.9375,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6921887943460898,
-  "close": false
+  "scale": 0.17916522661513282,
+  "close": true
 }

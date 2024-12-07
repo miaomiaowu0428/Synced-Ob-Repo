@@ -26,12 +26,15 @@
             "id": "128ddd707fcb7f46",
             "type": "leaf",
             "state": {
-              "type": "components-file-view",
+              "type": "markdown",
               "state": {
-                "file": "Components/Main.components"
+                "file": "Economics/男权社会的诞生.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "gantt-chart",
-              "title": "Main"
+              "icon": "lucide-file",
+              "title": "男权社会的诞生"
             }
           }
         ],
@@ -204,6 +207,9 @@
   },
   "active": "128ddd707fcb7f46",
   "lastOpenFiles": [
+    "Components/Main.components",
+    "Economics/男权社会的诞生.md",
+    "Economics",
     "Math/伴随矩阵.md",
     "Math/余子式和代数余子式.md",
     "Math/标量对矩阵求导.md",
@@ -219,14 +225,12 @@
     "Math/矩阵的列空间.md",
     "Math/矩阵的特征向量与特征值.md",
     "Math/邻域.md",
-    "Components/Main.components",
     "Reading/东方快车谋杀案.md",
     "CS/Code/Rust/clap指南.md",
     "CS/Code/Rust",
     "CS/Code",
     "Diary/24年11月22日.md",
     "CS/parser.md",
-    "未命名",
     "Physics",
     "Economics/Notes",
     "Economics/Book",
@@ -238,8 +242,6 @@
     "intresting problem/线性递推数列通项.md",
     "Diary/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
     "intresting problem/矩阵快速幂求Fib(n).md",
-    "20241119202520 .md",
-    "Main.md",
     "Components/time.components",
     "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png"
   ]
