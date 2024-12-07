@@ -11,6 +11,21 @@
             "id": "6c5303b6dc3d8e5c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/微分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微分"
+            }
+          },
+          {
+            "id": "128ddd707fcb7f46",
+            "type": "leaf",
+            "state": {
               "type": "components-file-view",
               "state": {
                 "file": "Components/Main.components"
@@ -19,7 +34,8 @@
               "title": "Main"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,17 +202,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6c5303b6dc3d8e5c",
+  "active": "128ddd707fcb7f46",
   "lastOpenFiles": [
+    "Math/伴随矩阵.md",
+    "Math/余子式和代数余子式.md",
+    "Math/标量对矩阵求导.md",
+    "Math/行列式.md",
+    "Math/无穷小.md",
+    "Math/微分.md",
+    "Math/求矩阵特征值与特征向量.md",
+    "Math/导数.md",
+    "Math/方向导数.md",
+    "Math/偏导数.md",
+    "Math/极限.md",
+    "Math/矩阵.md",
+    "Math/矩阵的列空间.md",
+    "Math/矩阵的特征向量与特征值.md",
+    "Math/邻域.md",
     "Components/Main.components",
     "Reading/东方快车谋杀案.md",
-    "Math/伴随矩阵.md",
-    "Math/邻域.md",
-    "Math/极限.md",
-    "Math/导数.md",
-    "Math/偏导数.md",
-    "Math/标量对矩阵求导.md",
-    "Math/方向导数.md",
     "CS/Code/Rust/clap指南.md",
     "CS/Code/Rust",
     "CS/Code",
@@ -213,17 +237,10 @@
     "Diary/24年11月13日.md",
     "intresting problem/线性递推数列通项.md",
     "Diary/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
-    "Math/求矩阵特征值与特征向量.md",
     "intresting problem/矩阵快速幂求Fib(n).md",
     "20241119202520 .md",
     "Main.md",
     "Components/time.components",
-    "Math/相似分解.md",
-    "Math/相似矩阵.md",
-    "Math/相似对角化.md",
-    "Math/行列式.md",
-    "Math/向量.md",
-    "Math/向量空间.md",
     "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png"
   ]
 }
