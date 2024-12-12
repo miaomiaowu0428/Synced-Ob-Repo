@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "17f49d60095457b8",
+        "id": "248c998f8397a26b",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1d26fa957f89c4",
+            "id": "6f2cc6abd5ca7c39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "components-file-view",
+              "state": {
+                "file": "Components/Main.components"
+              },
+              "icon": "gantt-chart",
+              "title": "Main"
             }
           }
         ]
@@ -171,36 +173,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3b1d26fa957f89c4",
+  "active": "6f2cc6abd5ca7c39",
   "lastOpenFiles": [
-    "Math/无穷小.md",
+    "Economics/中国经济的主要矛盾.md",
+    "Economics/Something.canvas",
+    "Components/Main.components",
+    "Math/余子式和代数余子式.md",
+    "Economics/男权社会的诞生.md",
+    "/Math/标量对矩阵求导.md",
+    "/Math/余子式和代数余子式.md",
+    "/Math/伴随矩阵.md",
+    "/Economics/男权社会的诞生.md",
+    "Economics",
+    "/Economics",
     "Math/微分.md",
-    "Math/无穷小^.md",
+    "Math/无穷小.md",
     "Math/极限.md",
+    "Math/无穷小^.md",
     "Math/导数.md",
     "Math/伴随矩阵.md",
     "Math/标量对矩阵求导.md",
     "Math/偏导数.md",
-    "Components/Main.components",
     "Math/邻域.md",
     "Math/方向导数.md",
     "/Math/邻域.md",
-    "/Math/标量对矩阵求导.md",
     "/Math/极限.md",
     "/Math/方向导数.md",
     "/Math/导数.md",
     "/Math/偏导数.md",
-    "/Math/伴随矩阵.md",
     "/Components/Main.components",
     "Diary/24年11月12日-买平板.md",
     "Diary/24年11月22日.md",
     "Diary/未命名.md",
-    "Reading/东方快车谋杀案.md",
-    "Dialog/2024-11-13.md",
-    "Math/相似对角化.md",
-    "intresting problem/矩阵快速幂求Fib(n).md",
-    "Math/矩阵的向量与特征值.md",
-    "Math/相似矩阵.md",
     "Dialog/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
     "Dialog/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
     "/Dialog/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png",
@@ -210,8 +214,6 @@
     "Dialog/img",
     "Dialog",
     "/intresting problem",
-    "/Math",
-    "/Dialog/img",
-    "/Dialog"
+    "/Math"
   ]
 }
