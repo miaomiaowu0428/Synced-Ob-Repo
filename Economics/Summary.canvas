@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"b21ce6cd315f820a","type":"file","file":"Economics/通货膨胀的本质.md","x":-1554,"y":-113,"width":306,"height":150},
+		{"id":"e4920ccdb70c4705","type":"file","file":"Economics/中国经济的主要矛盾.md","x":-503,"y":282,"width":351,"height":93},
+		{"id":"cfc156b0d876aece","type":"text","text":"Root","x":-322,"y":135,"width":100,"height":50},
+		{"id":"0e0cf8eaea8b8519","type":"file","file":"Economics/imgs/Pasted image 20241212132413.png","x":-426,"y":411,"width":311,"height":70},
+		{"id":"e3cc851239e64fc8","type":"file","file":"Economics/imgs/Pasted image 20241212132536.png","x":-140,"y":247,"width":278,"height":151},
+		{"id":"8609b16b7963d921","type":"text","text":"物价上涨 = 通货膨胀吗\n通货膨胀 = 物价上涨吗","x":-1219,"y":-68,"width":250,"height":60},
+		{"id":"657d4915f961d77d","type":"file","file":"Economics/放水一定会导致物价上涨吗.md","x":-1219,"y":55,"width":390,"height":426},
+		{"id":"b35927257486629e","type":"file","file":"Economics/央行增发货币的流向.md","x":-1634,"y":-460,"width":665,"height":266},
+		{"id":"22150daae256c30d","type":"file","file":"Economics/经济的公平与效率.md","x":257,"y":-33,"width":472,"height":362},
+		{"id":"c40d8e5414cb8775","type":"file","file":"Economics/Datas.canvas","x":647,"y":-420,"width":483,"height":285},
+		{"id":"b321a3e9b39d8404","type":"text","text":"- 民企的利润通过双轨制转移到城投和国企\n- 劳动者的利润通过金融化被转移给了债务杠杆者\n- 国内消费者的利润通过出口内卷被转移给了其他经济体的消费者","x":363,"y":-460,"width":260,"height":244},
+		{"id":"dd380582da5eacd4","type":"file","file":"Economics/个人支出结构.canvas","x":157,"y":-402,"width":100,"height":129}
+	],
+	"edges":[
+		{"id":"cd9dea302b73168b","fromNode":"cfc156b0d876aece","fromSide":"bottom","toNode":"0e0cf8eaea8b8519","toSide":"top"},
+		{"id":"fe878f8736796502","fromNode":"cfc156b0d876aece","fromSide":"bottom","toNode":"e3cc851239e64fc8","toSide":"top"},
+		{"id":"b9b78504b2e4a581","fromNode":"cfc156b0d876aece","fromSide":"bottom","toNode":"e4920ccdb70c4705","toSide":"top"},
+		{"id":"42ca30ae572c1201","fromNode":"cfc156b0d876aece","fromSide":"left","toNode":"8609b16b7963d921","toSide":"right"},
+		{"id":"e9586c30879e5487","fromNode":"8609b16b7963d921","fromSide":"left","toNode":"b21ce6cd315f820a","toSide":"right"},
+		{"id":"ca2e8c0dc2588a4f","fromNode":"b21ce6cd315f820a","fromSide":"bottom","toNode":"657d4915f961d77d","toSide":"left"},
+		{"id":"1dbaf80ceb6e7929","fromNode":"657d4915f961d77d","fromSide":"left","toNode":"b21ce6cd315f820a","toSide":"bottom"},
+		{"id":"da1bb24bfed32ccc","fromNode":"8609b16b7963d921","fromSide":"top","toNode":"b35927257486629e","toSide":"bottom"},
+		{"id":"4f0a70ed5d3df171","fromNode":"cfc156b0d876aece","fromSide":"top","toNode":"c40d8e5414cb8775","toSide":"bottom"},
+		{"id":"63c8174cb8edac4c","fromNode":"8609b16b7963d921","fromSide":"bottom","toNode":"657d4915f961d77d","toSide":"top"},
+		{"id":"67dd4abfb0c70f57","fromNode":"cfc156b0d876aece","fromSide":"top","toNode":"22150daae256c30d","toSide":"left"},
+		{"id":"07e4d8a63ee45c45","fromNode":"cfc156b0d876aece","fromSide":"top","toNode":"b321a3e9b39d8404","toSide":"bottom"},
+		{"id":"5717cbe118141152","fromNode":"cfc156b0d876aece","fromSide":"top","toNode":"dd380582da5eacd4","toSide":"bottom"}
+	]
+}

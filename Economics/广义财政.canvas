@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9e076d811232a5e2","x":-425,"y":-257,"width":102,"height":50,"type":"text","text":"收入"},
+		{"id":"fcb1cae4a1f53d08","x":-425,"y":-27,"width":102,"height":50,"type":"text","text":"支出"},
+		{"id":"f4c703d5fe6133ad","x":-714,"y":-139,"width":139,"height":57,"type":"text","text":"现金流"},
+		{"id":"4ca7a3f262c3c495","x":51,"y":-380,"width":99,"height":67,"type":"text","text":"税收收入"},
+		{"id":"b57df53e45b9ec9a","x":51,"y":-263,"width":94,"height":67,"type":"text","text":"非税收入"},
+		{"id":"974fb88b649f581b","x":-220,"y":-279,"width":160,"height":50,"type":"text","text":"一般预算收入"},
+		{"id":"5dd6b45d636333d8","x":316,"y":-663,"width":169,"height":92,"type":"text","text":"实体循环中某些要素出现弱化"},
+		{"id":"31cdedd7347081e6","x":316,"y":-518,"width":169,"height":85,"type":"text","text":"挤出税收收入的外部影响"}
+	],
+	"edges":[
+		{"id":"5f150b9e0c234eac","fromNode":"f4c703d5fe6133ad","fromSide":"right","toNode":"9e076d811232a5e2","toSide":"left"},
+		{"id":"93bb4cdd15337d4f","fromNode":"f4c703d5fe6133ad","fromSide":"right","toNode":"fcb1cae4a1f53d08","toSide":"left"},
+		{"id":"3cbf93ff32012360","fromNode":"9e076d811232a5e2","fromSide":"right","toNode":"974fb88b649f581b","toSide":"left"},
+		{"id":"cfa3cee47350e2d9","fromNode":"974fb88b649f581b","fromSide":"right","toNode":"4ca7a3f262c3c495","toSide":"left"},
+		{"id":"3d72f8b8cbaaacac","fromNode":"974fb88b649f581b","fromSide":"right","toNode":"b57df53e45b9ec9a","toSide":"left"},
+		{"id":"7ab36c555b8a2846","fromNode":"4ca7a3f262c3c495","fromSide":"top","toNode":"31cdedd7347081e6","toSide":"left","label":"上升"},
+		{"id":"35436a3c1e22e386","fromNode":"4ca7a3f262c3c495","fromSide":"top","toNode":"5dd6b45d636333d8","toSide":"left","label":"降低"}
+	]
+}

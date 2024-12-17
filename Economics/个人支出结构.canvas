@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"05ddf20819dbcff1","x":7,"y":173,"width":98,"height":75,"type":"text","text":"税务缴纳"},
+		{"id":"5016b18c121f610d","x":-189,"y":173,"width":98,"height":75,"type":"text","text":"生育投资"},
+		{"id":"6f31fda6e0553c06","x":-238,"y":43,"width":98,"height":70,"type":"text","text":"生活消费"},
+		{"id":"7833f4bf0d9108bd","x":57,"y":43,"width":98,"height":80,"type":"text","text":"养老储备"},
+		{"id":"6134578116c99163","x":-91,"y":-52,"width":98,"height":70,"type":"text","text":"教育投资"}
+	],
+	"edges":[]
+}
