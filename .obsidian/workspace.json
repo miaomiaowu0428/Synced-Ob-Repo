@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "components-file-view",
+              "type": "markdown",
               "state": {
-                "file": "Components/Main.components"
+                "file": "Diary/25年01月02日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "gantt-chart",
-              "title": "Main"
+              "icon": "lucide-file",
+              "title": "25年01月02日"
             }
           }
         ]
@@ -75,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6050e9eacae8e51e",
@@ -170,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,31 +193,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Economics/Temp.canvas",
+    "Diary/25年01月02日.md",
+    "Economics/中国经济的主要矛盾.md",
+    "Economics/央行增发货币的流向.md",
+    "Economics/通货膨胀的本质.md",
+    "Economics/商业模式画布.canvas",
+    "Economics/经济的公平与效率.md",
+    "Economics/男权社会的诞生.md",
+    "Economics/广义财政.canvas",
+    "Economics/放水一定会导致物价上涨吗.md",
+    "Economics/个人支出结构.canvas",
     "Economics/Datas.canvas",
     "Economics/Summary.canvas",
-    "Economics/个人支出结构.canvas",
-    "Economics/个人投资结构.canvas.md",
-    "Economics/广义财政.canvas",
     "Components/Main.components",
-    "Economics/Temp.canvas",
-    "Economics/经济的公平与效率.md",
+    "Economics/个人投资结构.canvas.md",
     "Economics/typsts/公平与效率.typ",
     "Economics/imgs/Pasted image 20241215204720.png",
     "Economics/typsts/fair_and_speed.typ",
     "Economics/typsts",
     "Economics/未命名.md",
-    "Economics/通货膨胀的本质.md",
-    "Economics/央行增发货币的流向.md",
     "广义财政.md",
-    "Economics/中国经济的主要矛盾.md",
-    "Economics/男权社会的诞生.md",
-    "Economics/商业模式画布.canvas",
     "Math/伴随矩阵.md",
     "Math/行列式.md",
     "Economics/imgs/Pasted image 20241212141021.png",
     "Economics/imgs/Pasted image 20241212140646.png",
     "Economics/imgs/Pasted image 20241212135623.png",
-    "Economics/放水一定会导致物价上涨吗.md",
     "Economics/imgs/Pasted image 20241212132536.png",
     "Economics/imgs",
     "Economics/imgs/Pasted image 20241212132413.png",
@@ -232,7 +236,6 @@
     "Math/矩阵的列空间.md",
     "Math/矩阵的特征向量与特征值.md",
     "Math/邻域.md",
-    "Reading/东方快车谋杀案.md",
     "CS/Code/Rust",
     "CS/Code",
     "Physics",
