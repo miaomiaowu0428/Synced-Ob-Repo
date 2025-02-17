@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"29f53598e9544790","type":"text","text":"全国汽车保有量","x":-308,"y":-83,"width":250,"height":60},
+		{"id":"813953d7ec94d6bf","type":"text","text":"人均汽车保有量 ","x":-308,"y":20,"width":250,"height":60}
+	],
+	"edges":[]
+}

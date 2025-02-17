@@ -1,0 +1,3 @@
+1. you have to make/have a **[[mint]]** authority(an account) as the boss of the mint
+	- ues this to sign all the transaction to mint new tokens, if you're not the mint authority, you can't mint new tokens for a given mint. **in our project it'll be *uers account* if he/she *don't Revoke Mint* else *a generated random account which will be aborted after mint the initial suplly**   
+2. then make a **Mint account** 

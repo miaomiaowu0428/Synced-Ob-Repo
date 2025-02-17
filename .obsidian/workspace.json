@@ -11,15 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "components-file-view",
               "state": {
-                "file": "Diary/25年01月02日.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Components/Main.components"
               },
-              "icon": "lucide-file",
-              "title": "25年01月02日"
+              "icon": "gantt-chart",
+              "title": "Main"
             }
           }
         ]
@@ -41,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6050e9eacae8e51e",
@@ -96,7 +93,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -121,9 +120,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Components/Main.components",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Main 的大纲"
             }
           },
           {
@@ -188,25 +192,44 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Economics/Temp.canvas",
-    "Diary/25年01月02日.md",
-    "Economics/中国经济的主要矛盾.md",
-    "Economics/央行增发货币的流向.md",
-    "Economics/通货膨胀的本质.md",
-    "Economics/商业模式画布.canvas",
-    "Economics/经济的公平与效率.md",
-    "Economics/男权社会的诞生.md",
-    "Economics/广义财政.canvas",
+    "Blockchain-Solana/Swap Contract.md",
+    "Blockchain-Solana/CreateToken.md",
+    "家教简历/南之白文具店.md",
+    "Boss沟通/沟通语录.md",
+    "家教简历",
+    "Components/Main.components",
+    "Boss沟通",
+    "PartimeJob/easycoinluanch.com.md",
+    "EnglishWordCards/Mint.md",
+    "EnglishWordCards",
+    "未命名.md",
+    "PartimeJob",
+    "Blockchain-Solana/Voting.canvas",
+    "Blockchain-Solana/Drawing 25-02-07.excalidraw.md",
+    "Blockchain-Solana",
+    "Diary/25年1月20日.canvas",
     "Economics/放水一定会导致物价上涨吗.md",
     "Economics/个人支出结构.canvas",
+    "Economics/广义财政.canvas",
+    "Economics/经济的公平与效率.md",
+    "Economics/男权社会的诞生.md",
+    "Economics/通货膨胀的本质.md",
+    "Economics/商业模式画布.canvas",
+    "Economics/央行增发货币的流向.md",
+    "Economics/中国经济的主要矛盾.md",
     "Economics/Datas.canvas",
     "Economics/Summary.canvas",
-    "Components/Main.components",
+    "Economics/Temp.canvas",
+    "Diary/25年01月20日.md",
+    "Diary/25年01月02日.md",
     "Economics/个人投资结构.canvas.md",
     "Economics/typsts/公平与效率.typ",
     "Economics/imgs/Pasted image 20241215204720.png",
@@ -223,23 +246,10 @@
     "Economics/imgs",
     "Economics/imgs/Pasted image 20241212132413.png",
     "Math/微分.md",
-    "Economics",
     "Math/余子式和代数余子式.md",
     "Math/标量对矩阵求导.md",
     "Math/无穷小.md",
     "Math/求矩阵特征值与特征向量.md",
-    "Math/导数.md",
-    "Math/方向导数.md",
-    "Math/偏导数.md",
-    "Math/极限.md",
-    "Math/矩阵.md",
-    "Math/矩阵的列空间.md",
-    "Math/矩阵的特征向量与特征值.md",
-    "Math/邻域.md",
-    "CS/Code/Rust",
-    "CS/Code",
-    "Physics",
-    "Economics/Notes",
     "Diary/img/Screenshot_2024-11-12-17-06-22-413_com.android.settings.png",
     "Diary/img/Screenshot_2024-11-12-17-06-40-076_com.android.settings.png"
   ]
